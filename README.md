@@ -1,12 +1,10 @@
-<h2 align="center" style="color: #FFFFFF;  font-family: "Major Mono Display", monospace;
-  font-weight: 400;
-  font-style: normal;">
+<h2 align="center" style="color: #FF6600; font-family: 'Major Mono Display', monospace;">
   Arth Vasavada
 </h2>
 
 <p align="center">
   <a href="https://github.com/arthVasavada">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Tech+Enthusiast;Building+Next-gen+Apps;Innovating+with+Machine+Learning;Pushing+the+limits+of+code;Exploring+Creative+Tech+Solutions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Tech+Enthusiast;Building+Next-gen+Apps;Innovating+with+Machine+Learning;Pushing+the+limits+of+code;Exploring+Creative+Tech+Solutions" />
   </a>
 </p>
 
@@ -53,6 +51,6 @@
 
 ---
 
-<p align="center" style="font-size: 18px; font-weight: bold; color: #FF6600;">
+<p align="center" style="font-size: 18px; font-weight: bold; color: #00FFFF; font-family: 'Major Mono Display', monospace;">
   🚀 Let's build the future of tech together!
 </p>
