@@ -34,9 +34,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=radical)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arthVasavada&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthVasavada&layout=compact&theme=radical)
 
 ---
 
