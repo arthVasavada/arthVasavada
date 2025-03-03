@@ -1,4 +1,4 @@
-<p align="center" style="margin-top: 40px;">
+<p align="center" style="margin-top: 400;">
   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&duration=10&pause=1000000&color=FF6600&center=true&vCenter=true&width=600&lines=Arth+Vasavada" />
 </p>
 
