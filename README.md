@@ -1,6 +1,7 @@
-<h2 align="center" style="color: #FF6600; font-family: 'Major Mono Display', monospace;">
-  Arth Vasavada
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=Arth+Vasavada" />
+</p>
+
 
 <p align="center">
   <a href="https://github.com/arthVasavada">
