@@ -1,4 +1,4 @@
-<h2 align="center" style="color: #fff821; font-family: 'Poiret One', cursive; font-family: 'Signika', sans-serif;">
+<h2 align="center" style="color: #FF6600; font-family: 'Poiret One', cursive; font-family: 'Signika', sans-serif;">
   Arth Vasavada
 </h2>
 
@@ -26,10 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/houdini/houdini-original.svg" height="40" alt="houdini logo"  />
-  <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nuke/nuke-original.svg" height="40" alt="nuke logo"  />
   <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="15" />
