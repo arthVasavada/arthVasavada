@@ -1,10 +1,10 @@
-<h2 align="center" style="color: #FF6600; font-family: 'Poiret One', cursive; font-family: 'Signika', sans-serif;">
+<h2 align="center" style="color: #FFFFFF; font-family: 'Poiret One', cursive; font-family: 'Signika', sans-serif;">
   Arth Vasavada
 </h2>
 
 <p align="center">
   <a href="https://github.com/arthVasavada">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fcd012&center=true&vCenter=true&width=500&lines=AI+Developer+%7C+Tech+Enthusiast;Building+Next-gen+Apps;Innovating+with+Machine+Learning;Pushing+the+limits+of+code;Exploring+Creative+Tech+Solutions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6600&center=true&vCenter=true&width=500&lines=AI+Developer+%7C+Tech+Enthusiast;Building+Next-gen+Apps;Innovating+with+Machine+Learning;Pushing+the+limits+of+code;Exploring+Creative+Tech+Solutions" />
   </a>
 </p>
 
