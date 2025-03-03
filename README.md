@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=FFD700&center=true&multiline=true&width=435&lines=Arth+Vasavada;The+Transient+One)](https://git.io/typing-svg)
+<h2 align="center" style="color: #FFFFFF;  font-family: "Major Mono Display", monospace;
+  font-weight: 400;
+  font-style: normal;">
+  Arth Vasavada
+</h2>
 
 <p align="center">
   <a href="https://github.com/arthVasavada">
