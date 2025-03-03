@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://s11.gifyu.com/images/SymJ9.gif" />
+<img align="right" height="150" src="" />
 
 ###
 
