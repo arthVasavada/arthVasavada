@@ -1,6 +1,4 @@
-<h2 align="center" style="color: #FFFFFF; font-family: 'Poiret One', cursive; font-family: 'Signika', sans-serif;">
-  Arth Vasavada
-</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=FFD700&center=true&multiline=true&width=435&lines=Arth+Vasavada;The+Transient+One)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/arthVasavada">
