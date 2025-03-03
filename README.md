@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/arthVasavada">
-    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Tech+Enthusiast;Building+Next-gen+Apps;Innovating+with+Machine+Learning;Pushing+the+limits+of+code;Exploring+Creative+Tech+Solutions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Next-gen+Apps;Innovating+with+Machine+Learning;Pushing+the+limits+of+code;Exploring+Creative+Tech+Solutions" />
   </a>
 </p>
 
