@@ -1,11 +1,11 @@
 <p align="center"">
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&duration=10&pause=1000000&color=A833FF&center=true&vCenter=true&repeat=false&width=600&lines=Arth+Vasavada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&duration=10&pause=1000000&color=00C8FF&center=true&vCenter=true&repeat=false&width=600&lines=Arth+Vasavada" />
 </p>
 
 
 <p align="center">
   <a href="https://github.com/arthVasavada">
-    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Next-gen+Apps;Innovating+with+Machine+Learning;Pushing+the+limits+of+code;Exploring+Creative+Tech+Solutions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=A833FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Next-gen+Apps;Innovating+with+Machine+Learning;Pushing+the+limits+of+code;Exploring+Creative+Tech+Solutions" />
   </a>
 </p>
 
